@@ -1,0 +1,102 @@
+
+
+h1, h2, h3, h4, h5, h6 {
+		color: #000000;
+		font-family: "Raleway", Helvetica, sans-serif;
+		font-weight: 800;
+		letter-spacing: 0.175em;
+		text-transform: uppercase;
+}
+
+ h1 {
+	font-size: 5rem;
+	line-height: 1.1;
+	}
+
+h2 {
+	font-size: 1.5rem;
+}
+
+
+h3 {
+	font-size: 1.25rem;
+}
+
+h4 {
+	font-size: 0.875rem;
+}
+
+h5 {
+	font-size: 0.75rem;
+}
+
+h6 {
+	font-size: 0.625rem;
+}
+
+@media screen and (max-width: 736px) {
+
+	h1 {
+		font-size: 4.5rem;
+		line-height: 1.1;
+	}
+
+	h2 {
+		font-size: 1.25rem;
+		line-height: 1.7;
+	}
+
+	h3 {
+		font-size: 0.9rem;
+	}
+
+	h4 {
+		font-size: 0.75rem;
+	}
+
+	h5 {
+		font-size: 0.675rem;
+	}
+
+}
+
+@media screen and (max-width: 360px) {
+
+	h1 {
+		font-size: 3.75rem;
+	}
+
+	h2 {
+		font-size: 1.125rem;
+	}
+
+	h3 {
+		font-size: 0.8rem;
+	}
+
+	h4 {
+		font-size: 0.675rem;
+	}
+
+	h5 {
+		font-size: 0.675rem;
+	}
+}
+
+.arrowscrolly {
+    border-bottom: 0;
+    display: inline-block;
+    position: relative;
+}
+
+.photo_design {
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    height: auto;
+}
+
+.section_design{
+	margin-top: 3%;
+}
