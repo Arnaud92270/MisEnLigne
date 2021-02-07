@@ -1,0 +1,30 @@
+.psg{
+	max-width: 60px;
+}
+.lancemodal{
+	margin-top: 60px;
+	text-align: center;
+}
+
+.container-perso{
+	max-width: 950px;
+}
+.blog{
+    background: #ededed;
+    padding-bottom: 20px;
+}
+.colonne{
+    min-height: 250px;
+    margin-top: 20px;
+}
+
+.colonne-1{
+    background: #29d4ef;
+}
+.colonne-2{
+    background: #72ef4f;
+}
+.colonne-3{
+    background: #e4ef13;
+    
+}
